@@ -1,0 +1,28 @@
+name: TajTreva
+favicon: null
+layout_spectrum: 0.10676144366152585
+typography_spectrum: 0.9508952652104199
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.43106232583522797
+  lightness: 0.287659507477656
+  saturation: 0.6048009470105171
+  rhythmicContrast: 0.5756025819573551
+purpose: []
